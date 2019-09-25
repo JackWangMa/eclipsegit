@@ -7,19 +7,19 @@ public class DEMO {
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
 		 
-		System.out.println("ÊäÈëµÚÒ»¸öÊı×Ö£º");
+		System.out.println("DSADASD");
 		  num1=sc.nextInt();
-		  System.out.println("ÊäÈëµÚ¶ş¸öÊı×Ö£º");
+		  System.out.println("ï¿½ï¿½ï¿½ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½");
 			num2=sc.nextInt();
           // sc.close();
 			if(num1>=num2){
-				System.out.println("ÊäÈëµÚÒ»¸öÊı×Ö£º"+num1);
-				System.out.println("ÊäÈëµÚ¶ş¸öÊı×Ö£º"+num2);
+				System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½"+num1);
+				System.out.println("ï¿½ï¿½ï¿½ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½"+num2);
 				
 			}
 			else{
-				System.out.println("ÊäÈëµÚ¶ş¸öÊı×Ö£º"+num2);
-				System.out.println("ÊäÈëµÚÒ»¸öÊı×Ö£º"+num1);
+				System.out.println("ï¿½ï¿½ï¿½ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½"+num2);
+				System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½"+num1);
 				
 			}
 			
