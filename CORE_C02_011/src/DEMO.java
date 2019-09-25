@@ -17,7 +17,7 @@ public class DEMO {
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
 			num2=sc.nextInt();
-               // sc.close();
+                 // sc.close();
 			if(num1>=num2){
 				System.out.println("�����һ�����֣�"+num1);
 				System.out.println("����ڶ������֣�"+num2);
