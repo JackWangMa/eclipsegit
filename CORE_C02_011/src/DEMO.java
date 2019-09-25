@@ -43,7 +43,7 @@ public class DEMO {
                  // sc.close();
 			if(num1>=num2){
 				System.out.println("�����һ�����֣�"+num1);
-				 System.out.println("����ڶ������֣�"+num2);
+				  System.out.println("����ڶ������֣�"+num2);
 				
 			}
 			else{
