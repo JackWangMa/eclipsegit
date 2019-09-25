@@ -8,7 +8,7 @@ public class DEMO {
 	for(;;){
 		 
 		System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
-		System.out.println("DSADA65566565656556SD");
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaDSADA65566565656556SD");
 
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
