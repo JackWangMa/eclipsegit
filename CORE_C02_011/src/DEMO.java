@@ -7,7 +7,9 @@ public class DEMO {
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
 		 
-
+		System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaDSADA65566565656556SD");
+		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSAD955dfdsfdsf656565sdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 		  num1=sc.nextInt();
