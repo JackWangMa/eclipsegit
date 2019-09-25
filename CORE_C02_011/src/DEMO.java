@@ -14,7 +14,7 @@ public class DEMO {
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
-		System.out.println("DSAD955dfdsfdsf656565sdfsddsdfdsf589665656565656565555dsadsd6898999ASD20");
+		System.out.println("DSAD955df");
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
 			num2=sc.nextInt();
