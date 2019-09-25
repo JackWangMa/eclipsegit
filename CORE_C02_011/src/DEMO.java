@@ -8,7 +8,7 @@ public class DEMO {
 	for(;;){
 		 
 <<<<<<< HEAD
-		System.out.println("DSADA65566565656556SD");
+		System.out.println("DSADA69saddasdasd995566565656556SD");
 =======
 		System.out.println("DSAD9896555dsadsd6898999ASD");
 >>>>>>> branch 'master' of https://github.com/JackWangMa/eclipsegit.git
