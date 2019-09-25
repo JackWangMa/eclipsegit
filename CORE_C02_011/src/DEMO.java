@@ -6,11 +6,13 @@ public class DEMO {
 	int num1,num2;
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
+		System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 	   	System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaDSADA65566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
+		System.out.println("DSAD56955df");
 		System.out.println("DSAD56955df");
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
