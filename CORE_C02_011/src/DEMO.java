@@ -26,14 +26,14 @@ public class DEMO {
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
-		 System.out.println("DSAD56955df");
+	      	 System.out.println("DSAD56955df");
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
 			num2=sc.nextInt();
                  // sc.close();
 			if(num1>=num2){
 				System.out.println("�����һ�����֣�"+num1);
-				 System.out.println("����ڶ������֣�"+num2);
+				  System.out.println("����ڶ������֣�"+num2);
 				
 			}
 			else{
