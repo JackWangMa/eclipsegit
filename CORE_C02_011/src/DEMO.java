@@ -6,6 +6,17 @@ public class DEMO {
 	int num1,num2;
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		   System.out.println("25DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 	   	System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaDSADA65566565656556SD");
