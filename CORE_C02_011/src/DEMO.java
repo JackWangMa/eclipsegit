@@ -6,6 +6,7 @@ public class DEMO {
 	int num1,num2;
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
+		
 	 int i=0;
 	int m=0;int flag=0;
 	int ret=0;
