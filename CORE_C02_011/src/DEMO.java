@@ -7,11 +7,12 @@ public class DEMO {
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
 		 
-<<<<<<< HEAD
+
 		System.out.println("DSADA69saddasdasd995566565656556SD");
-=======
+		System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
+		
+        System.out.println("DSADA65566565656556SD");
 		System.out.println("DSAD9896555dsadsd6898999ASD");
->>>>>>> branch 'master' of https://github.com/JackWangMa/eclipsegit.git
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
 			num2=sc.nextInt();
