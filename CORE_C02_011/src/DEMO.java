@@ -7,7 +7,7 @@ public class DEMO {
 	 Scanner sc=new Scanner(System.in);
 	for(;;){
 		 
-		System.out.println("DSAD9896555dsadsd6898999ASD");
+		System.out.println("DSAD9555896555dsadsd6898999ASD");
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ������֣�");
 			num2=sc.nextInt();
