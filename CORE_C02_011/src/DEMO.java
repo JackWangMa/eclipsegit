@@ -20,19 +20,12 @@ public class DEMO {
 	 int ret=0;
 	 
 	 
-<<<<<<< HEAD
-	    int re1t=0;int nnn=0;int dd=0;int sss=5;
 
-	  int re1t=0;int nnn=0;int dd=0;
-	 int sss=5;
-
-=======
 	   int re1t=0;int nnn=0;int dd=0;int sss=5;
 
 	    int re1t=0;int nnn=0;int dd=0;
 	   int sss=5;
-	 
->>>>>>> branch 'master' of https://github.com/JackWangMa/eclipsegit.git
+
 		  System.out.println("25DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 		   System.out.println("25DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
 	   	System.out.println("DSAD955dfdsfdsfsdfsddsdfdsf589665656565656565555dsadsd6898999ASD");
