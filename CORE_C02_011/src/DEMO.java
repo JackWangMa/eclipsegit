@@ -13,7 +13,6 @@ public class DEMO {
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSADA69saddasdasd995566565656556SD");
 		System.out.println("DSAD56955df");
-		System.out.println("DSAD56955df");
 		  num1=sc.nextInt();
 		  System.out.println("����ڶ ������֣�");
 			num2=sc.nextInt();
